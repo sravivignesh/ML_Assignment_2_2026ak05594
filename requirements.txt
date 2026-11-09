@@ -1,0 +1,7 @@
+# scikit-learn is pinned because fitted joblib artifacts are version-sensitive.
+streamlit>=1.44,<2.0
+scikit-learn
+numpy>=2.2,<3.0
+pandas>=2.2,<3.0
+joblib>=1.5,<2.0
+matplotlib>=3.9,<4.0
